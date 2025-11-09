@@ -11,3 +11,6 @@ A tool that automatically converts traditional lyrics on Spotify to simplified.
 
 # USEAGE
 Either run in terminal with calling python (make sure python is added to PATH) or run lyric_translator.py natively in an editor (VS code)
+- after running, it will create a new chrome browser
+- just sign in and start playing - its as simple as that
+- you can just end the program by closing the cmd or trashing the terminal
